@@ -32,5 +32,5 @@ Si deseas conocer la creación paso a paso del sistema, una explicación mas det
   
 ## Enlace 🔗
 
-* **Codigo Fuente** -  [Codigo Fuente](https://www.youtube.com/codigofuente)
+* **Codigo Fuente** 
 # CevicheriaPezCojo
