@@ -1,4 +1,4 @@
-# La Lucha (Carrito de Compras)
+# Cevicheria el Pez Cojo
 
 ## Comenzando 🚀
 
@@ -14,11 +14,8 @@ Usamos [Git](https://git-scm.com/) para el versionado. Su uso es solo para fines
 
 ## Autores ✒️
 
-- Rodrigo Max Lara Camarena
-- Renato Estefano Zegarra Villa
+- Condor Balbin Joseph Geremin
 
-* **Rodrigo Max Lara Camarena** -  [Rodrigo Lara](https://www.linkedin.com/in/rodrigolara05)
-* **Renato Estefano Zegarra Villa** -  [Renato Zegarra](#)
 
 ### Pre-requisitos 📋
 
